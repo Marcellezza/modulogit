@@ -1,1 +1,1 @@
-Meu primeiro sistema no GIT !! (Alterado,~ atualizado e style.css)
+Meu primeiro sistema no GIT !! 
